@@ -1,0 +1,19 @@
+.text{
+    text-align: center;
+    margin-top: 30px;
+}
+
+img{
+    border-radius: 20px;
+}
+
+li {
+    list-style-type: none;
+  }
+
+.life{
+    text-indent: 20px;
+    margin-left: 40px;
+    margin-right: 50px;
+    text-align: justify;
+}
